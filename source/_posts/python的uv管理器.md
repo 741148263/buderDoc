@@ -8,3 +8,7 @@ tags: python
 
 
 # uv简要说明
+
+## uv的安装
+
+## uv的基础使用命令
