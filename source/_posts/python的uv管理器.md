@@ -1,7 +1,12 @@
 ---
 title: python的uv管理器
 date: 2026-04-26 20:14:16
-tags: python
+tags:
+- python
+- uv
+categories:
+- python
+- uv
 ---
 
 # uv简要说明
