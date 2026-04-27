@@ -9,7 +9,7 @@ categories:
 toc: true
 recommend: 1
 keywords: categories-java
-uniqueId: 2026-04-27 15:56:01/pic_go图床.html
+uniqueId: 2026-04-27 23:56:01/pic_go图床.html
 mathJax: false
 date: 2026-04-27 23:56:01
 thumbnail:
@@ -31,4 +31,4 @@ thumbnail:
   ![修改语言配置](https://raw.githubusercontent.com/741148263/MyPicBed/main/typora/20260428000933054.png)
 
 2. github图床配置
-  ![alt text](image.png)
+  ![github图床配置](https://raw.githubusercontent.com/741148263/MyPicBed/main/typora/20260428000933054.png)
